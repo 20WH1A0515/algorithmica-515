@@ -6,6 +6,6 @@ int main(){
     cin>>l;
     cout<<"enter the width:";
     cin>>w;
-    cout<<"area of the room:"<<l*w;
+    cout<<"area of the room:"<<l*w<<" feets";
     return 0;
 }

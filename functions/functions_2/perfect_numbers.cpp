@@ -19,10 +19,10 @@ int main(){
     cout<<"enter a number:";
     cin>>n;
     if(isPerfect(n)){
-        cout<<"The number"<<n<<"is a perfect number."<<"\n";
+        cout<<"The number "<<n<<" is a perfect number."<<"\n";
     }
     else{
-        cout<<"The number"<<n<<"is not a perfect number."<<"\n";
+        cout<<"The number "<<n<<" is not a perfect number."<<"\n";
     }
     cout<<"The perfect numbers between 1 and 10000 are:"<<"\n";
     for(int i=1;i<=10000;i++){

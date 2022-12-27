@@ -11,6 +11,7 @@ bool isInteger(string s){
             }
             else if(s[i]>='a'||s[i]<='z'){
                 return false;
+
             }
     }
 }
